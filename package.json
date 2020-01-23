@@ -1,0 +1,23 @@
+{
+  "name": "lab_vika_8",
+  "version": "1.0.0",
+  "description": "verkefni fyrir profanir",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-AddiKristoSvenni/unitTesting_1.git"
+  },
+  "author": "Sveinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-AddiKristoSvenni/unitTesting_1/issues"
+  },
+  "homepage": "https://github.com/Team-AddiKristoSvenni/unitTesting_1#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
